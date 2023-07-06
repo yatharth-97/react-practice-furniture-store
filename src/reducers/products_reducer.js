@@ -1,4 +1,3 @@
-import { useEffect } from 'react';
 import {
   SIDEBAR_OPEN,
   SIDEBAR_CLOSE,
